@@ -1,0 +1,24 @@
+{
+  "name": "dashboard-app",
+  "version": "1.0.0",
+  "description": "A dashboard application for searching terms within a specified date range.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "dashboard-app": "file:",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
